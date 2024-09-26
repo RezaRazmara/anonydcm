@@ -1,0 +1,10 @@
+[package]
+name = "anonydcm"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+clap = "2"
+dicom = "0.7.1"
+walkdir = "2.3"
